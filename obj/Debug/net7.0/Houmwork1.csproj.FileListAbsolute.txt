@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.AssemblyInfo.cs
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\bin\Debug\net7.0\Houmwork1.exe
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\bin\Debug\net7.0\Houmwork1.deps.json
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\bin\Debug\net7.0\Houmwork1.runtimeconfig.json
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\bin\Debug\net7.0\Houmwork1.dll
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\bin\Debug\net7.0\Houmwork1.pdb
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.dll
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\refint\Houmwork1.dll
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.pdb
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\Houmwork1.genruntimeconfig.cache
+C:\Users\pc\Desktop\ДЗ ЗЯ\Houmwork1\obj\Debug\net7.0\ref\Houmwork1.dll
