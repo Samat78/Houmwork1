@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\ДЗ ЗЯ\\Houmwork1\\Houmwork1.csproj": {}
+    "C:\\Users\\pc\\Desktop\\DZ1234\\Houmwork1\\Houmwork1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\ДЗ ЗЯ\\Houmwork1\\Houmwork1.csproj": {
+    "C:\\Users\\pc\\Desktop\\DZ1234\\Houmwork1\\Houmwork1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\ДЗ ЗЯ\\Houmwork1\\Houmwork1.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\DZ1234\\Houmwork1\\Houmwork1.csproj",
         "projectName": "Houmwork1",
-        "projectPath": "C:\\Users\\pc\\Desktop\\ДЗ ЗЯ\\Houmwork1\\Houmwork1.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\DZ1234\\Houmwork1\\Houmwork1.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\ДЗ ЗЯ\\Houmwork1\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\DZ1234\\Houmwork1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
